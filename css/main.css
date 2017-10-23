@@ -1,0 +1,197 @@
+body{
+  overflow: auto;
+}
+
+h4{
+  font-family: 'Bree Serif', serif;
+}
+
+h5{
+  font-family: 'Roboto Slab', serif;
+  font-size: 10px;
+}
+
+p{
+  font-size: 10px;
+}
+
+h4{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#first{
+  /*outline: 1px solid blue;*/
+  width: 150px;
+  height: 200px;
+  box-sizing: border-box;
+  float: left;
+  text-align: center;
+  padding: 8px;
+  background: #fbfbfb;
+  box-shadow: 1px 1px 1px 1px grey;
+}
+
+
+#first h5{
+margin: 0;
+bottom: 12px;
+}
+
+#first i{
+  box-sizing: border-box;
+  font-size: 30px;
+  display: block;
+  margin-top: 15px;
+}
+
+#second{
+  /*outline: 1px solid yellow;*/
+  width: 150px;
+  height: 200px;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 8px;
+  text-align: center;
+  padding: 8px;
+  background: #fbfbfb;
+  box-shadow: 1px 1px 1px 1px grey;
+ }
+
+ #second h5{
+ margin: 0;
+ bottom: 12px;
+ }
+
+ #second i{
+   box-sizing: border-box;
+   font-size: 30px;
+   display: block;
+   margin-top: 15px;
+ }
+
+#thirt{
+  /*outline: 1px solid purple;*/
+  width: 150px;
+  height: 200px;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 8px;
+  text-align: center;
+  padding: 8px;
+  background: #fbfbfb;
+  box-shadow: 1px 1px 1px 1px grey;
+}
+
+#thirt h4{
+  margin-top: 5px;
+}
+
+#thirt h5{
+margin: 0;
+bottom: 12px;
+}
+
+#thirt i{
+  box-sizing: border-box;
+  font-size: 50px;
+  display: block;
+  margin-top: 5px;
+}
+
+#four{
+  /*outline: 1px solid red;*/
+  width: 140px;
+  height: 185px;
+  float: left;
+  display: inline-block;
+  margin-left: 8px;
+  text-align: center;
+  padding: 8px;
+  background: #fbfbfb;
+  box-shadow: 1px 1px 1px 1px grey;
+}
+
+#four h5{
+margin: 0;
+bottom: 12px;
+}
+
+#four i{
+  box-sizing: border-box;
+  font-size: 30px;
+  display: block;
+  margin-top: 15px;
+}
+
+
+#five{
+  /*outline: 1px solid green;*/
+  width: 150px;
+  height: 200px;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 8px;
+  text-align: center;
+  display: inline-block;
+  padding: 8px;
+  background: #fbfbfb;
+  box-shadow: 1px 1px 1px 1px grey;
+ }
+
+  #five h5{
+  margin: 0;
+  bottom: 12px;
+  }
+
+  #five i{
+    box-sizing: border-box;
+    font-size: 30px;
+    display: block;
+    margin-top: 15px;
+  }
+
+#first:hover{
+  transform: scale(1.1);
+  background: white;
+}
+
+#first:hover h4, #first:hover p, #first:hover i{
+  color: #cbd6e8;
+}
+
+#second:hover{
+  transform: scale(1.1);
+  background: white;
+}
+
+#second:hover h4, #second:hover p, #second:hover i{
+  color: #cbd6e8;
+}
+
+#thirt:hover{
+  transform: scale(1.1);
+  background: white;
+}
+
+#thirt:hover h4, #thirt:hover p, #thirt:hover i{
+  color: #cbd6e8;
+}
+
+#four:hover{
+  transform: scale(1.1);
+  background: white;
+}
+
+#four:hover h4, #four:hover p, #four:hover i{
+  color: #cbd6e8;
+}
+
+#five:hover{
+  transform: scale(1.1);
+  background: white;
+}
+
+#five:hover h4, #five:hover p, #five:hover i{
+  color: #cbd6e8;
+}
