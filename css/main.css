@@ -20,6 +20,11 @@ h4{
   margin-bottom: 15px;
 }
 
+nav div a{
+  text-decoration: none;
+  color: gray;
+}
+
 #first{
   /*outline: 1px solid blue;*/
   width: 150px;
