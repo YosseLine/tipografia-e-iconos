@@ -2,7 +2,8 @@
 
 * **Curso:** Clase Práctica
 * **Squad:** Ayllu Coders
-* **Integrantes:**
+
+**Integrantes:**
 
 - Yosseline Apcho
 
